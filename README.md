@@ -1,5 +1,5 @@
 # Test-Grade-Calculator
--Introduce: Project help to build function analyze and caculate the grade of each class through student's answers file\n
+-Introduce: Project help to build function analyze and caculate the grade of each class through student's answers file
 
 -Condition:
 Before you continue, ensure you meet the following requirements:
@@ -8,12 +8,17 @@ Before you continue, ensure you meet the following requirements:
 * You have a basic understanding of numpy and pandas library.
 
 -Install:
+
 *Install Python: Download: https://www.python.org/downloads/
+
 *Install library:
+
 Numpy:https://numpy.org/install/
+
 Pandas:https://pandas.pydata.org/docs/getting_started/install.html
 
 -Using:
+
 +Task1: open file
 Use function open_file()
 Ex: file1 = open_file()

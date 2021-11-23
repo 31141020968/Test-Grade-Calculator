@@ -67,7 +67,7 @@ Ex:
 
 file1 = open_file()
 
-save_result(file1,score(file1))
+save_result(file1,calculate_score(file1))
 
 
 
